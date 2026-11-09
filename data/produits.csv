@@ -1,0 +1,234 @@
+produit_id,nom,categorie,sous_categorie,prix,poids_kg
+P0001,Pâtes spaghetti 500 g,Épicerie,Féculents,1.10,0.5
+P0002,Pâtes penne 500 g,Épicerie,Féculents,1.10,0.5
+P0003,Riz basmati 1 kg,Épicerie,Féculents,2.90,1.0
+P0004,Riz long grain 1 kg,Épicerie,Féculents,1.80,1.0
+P0005,Semoule de blé 1 kg,Épicerie,Féculents,1.70,1.0
+P0006,Lentilles vertes 500 g,Épicerie,Féculents,1.90,0.5
+P0007,Pois chiches 400 g,Épicerie,Féculents,0.95,0.4
+P0008,Quinoa 500 g,Épicerie,Féculents,3.40,0.5
+P0009,Purée en flocons 500 g,Épicerie,Féculents,2.20,0.5
+P0010,Tomates pelées 400 g,Épicerie,Conserves,0.90,0.4
+P0011,Thon au naturel 3x80 g,Épicerie,Conserves,4.20,0.3
+P0012,Maïs doux 3x140 g,Épicerie,Conserves,2.30,0.5
+P0013,Haricots verts 800 g,Épicerie,Conserves,1.80,0.8
+P0014,Sardines à l'huile 135 g,Épicerie,Conserves,1.90,0.15
+P0015,Ratatouille 750 g,Épicerie,Conserves,2.90,0.75
+P0016,Coulis de tomate 500 g,Épicerie,Conserves,1.30,0.5
+P0017,Café moulu 250 g,Épicerie,Petit-déjeuner,3.20,0.25
+P0018,Café en grains 1 kg,Épicerie,Petit-déjeuner,12.90,1.0
+P0019,Capsules café x30,Épicerie,Petit-déjeuner,8.50,0.2
+P0020,Thé noir x50 sachets,Épicerie,Petit-déjeuner,2.80,0.1
+P0021,Céréales chocolat 500 g,Épicerie,Petit-déjeuner,3.10,0.5
+P0022,Muesli 750 g,Épicerie,Petit-déjeuner,3.60,0.75
+P0023,Confiture fraise 370 g,Épicerie,Petit-déjeuner,2.40,0.37
+P0024,Pâte à tartiner 750 g,Épicerie,Petit-déjeuner,4.90,0.75
+P0025,Biscottes x34,Épicerie,Petit-déjeuner,1.90,0.3
+P0026,Miel de fleurs 500 g,Épicerie,Petit-déjeuner,5.40,0.5
+P0027,Huile d'olive 1 L,Épicerie,Condiments,8.90,0.95
+P0028,Huile de tournesol 1 L,Épicerie,Condiments,2.40,0.95
+P0029,Vinaigre balsamique 50 cl,Épicerie,Condiments,2.70,0.6
+P0030,Moutarde 370 g,Épicerie,Condiments,1.60,0.4
+P0031,Mayonnaise 470 g,Épicerie,Condiments,2.30,0.47
+P0032,Sel fin 1 kg,Épicerie,Condiments,0.80,1.0
+P0033,Poivre noir moulu 50 g,Épicerie,Condiments,2.10,0.05
+P0034,Sauce soja 250 ml,Épicerie,Condiments,2.20,0.3
+P0035,Ketchup 560 g,Épicerie,Condiments,2.40,0.56
+P0036,Biscuits petit-beurre 200 g,Épicerie,Biscuits et snacks,1.40,0.2
+P0037,Cookies chocolat 300 g,Épicerie,Biscuits et snacks,2.60,0.3
+P0038,Chips nature 200 g,Épicerie,Biscuits et snacks,2.10,0.2
+P0039,Crackers apéritif 100 g,Épicerie,Biscuits et snacks,1.80,0.1
+P0040,Tablette chocolat noir 100 g,Épicerie,Biscuits et snacks,1.90,0.1
+P0041,Barres céréales x6,Épicerie,Biscuits et snacks,2.70,0.15
+P0042,Cacahuètes grillées 200 g,Épicerie,Biscuits et snacks,2.20,0.2
+P0043,Farine de blé 1 kg,Épicerie,Farine et pâtisserie,1.10,1.0
+P0044,Sucre en poudre 1 kg,Épicerie,Farine et pâtisserie,1.30,1.0
+P0045,Levure chimique x6,Épicerie,Farine et pâtisserie,1.20,0.06
+P0046,Chocolat pâtissier 200 g,Épicerie,Farine et pâtisserie,2.40,0.2
+P0047,Sucre glace 500 g,Épicerie,Farine et pâtisserie,1.60,0.5
+P0048,Lait demi-écrémé 1 L,Frais,Crèmerie,1.05,1.03
+P0049,Lait demi-écrémé 6x1 L,Frais,Crèmerie,6.10,6.2
+P0050,Beurre doux 250 g,Frais,Crèmerie,2.60,0.25
+P0051,Yaourts nature x8,Frais,Crèmerie,2.20,1.0
+P0052,Yaourts aux fruits x8,Frais,Crèmerie,3.10,1.0
+P0053,Crème fraîche 20 cl,Frais,Crèmerie,1.50,0.2
+P0054,Œufs plein air x12,Frais,Crèmerie,3.80,0.75
+P0055,Emmental râpé 200 g,Frais,Crèmerie,2.30,0.2
+P0056,Camembert 250 g,Frais,Crèmerie,2.10,0.25
+P0057,Comté 12 mois 250 g,Frais,Crèmerie,4.90,0.25
+P0058,Mozzarella 125 g,Frais,Crèmerie,1.20,0.125
+P0059,Filets de poulet 500 g,Frais,Viandes et poissons,6.90,0.5
+P0060,Steaks hachés 5% x4,Frais,Viandes et poissons,5.90,0.4
+P0061,Jambon blanc x4,Frais,Viandes et poissons,3.20,0.16
+P0062,Saumon fumé x4,Frais,Viandes et poissons,6.50,0.12
+P0063,Lardons fumés 200 g,Frais,Viandes et poissons,2.40,0.2
+P0064,Saucisses de Toulouse x6,Frais,Viandes et poissons,5.40,0.6
+P0065,Pavés de saumon x2,Frais,Viandes et poissons,7.90,0.25
+P0066,"Pommes golden 1,5 kg",Frais,Fruits et légumes,3.20,1.5
+P0067,Bananes 1 kg,Frais,Fruits et légumes,1.90,1.0
+P0068,Oranges 2 kg,Frais,Fruits et légumes,3.90,2.0
+P0069,Tomates grappe 1 kg,Frais,Fruits et légumes,3.40,1.0
+P0070,Carottes 1 kg,Frais,Fruits et légumes,1.30,1.0
+P0071,"Pommes de terre 2,5 kg",Frais,Fruits et légumes,2.90,2.5
+P0072,Oignons jaunes 1 kg,Frais,Fruits et légumes,1.50,1.0
+P0073,Salade batavia,Frais,Fruits et légumes,1.20,0.4
+P0074,Courgettes 1 kg,Frais,Fruits et légumes,2.60,1.0
+P0075,Avocats x2,Frais,Fruits et légumes,2.40,0.4
+P0076,Citrons x4,Frais,Fruits et légumes,1.80,0.5
+P0077,Pizza jambon fromage,Frais,Traiteur,3.90,0.45
+P0078,Lasagnes bolognaise 1 kg,Frais,Traiteur,5.90,1.0
+P0079,Taboulé 1 kg,Frais,Traiteur,4.20,1.0
+P0080,Houmous 200 g,Frais,Traiteur,2.30,0.2
+P0081,Gnocchi 500 g,Frais,Traiteur,1.90,0.5
+P0082,"Eau minérale 6x1,5 L",Boissons,Eaux,3.30,9.2
+P0083,Eau gazeuse 6x1 L,Boissons,Eaux,3.90,6.3
+P0084,Eau de source 6x50 cl,Boissons,Eaux,2.10,3.1
+P0085,Jus d'orange 1 L,Boissons,Softs et jus,2.20,1.05
+P0086,Soda cola 6x33 cl,Boissons,Softs et jus,4.80,2.2
+P0087,"Thé glacé 1,5 L",Boissons,Softs et jus,1.90,1.55
+P0088,"Limonade 1,5 L",Boissons,Softs et jus,1.40,1.55
+P0089,Sirop de grenadine 75 cl,Boissons,Softs et jus,2.60,1.0
+P0090,Vin rouge Bordeaux 75 cl,Boissons,Vins et alcools,7.90,1.3
+P0091,Vin blanc Chablis 75 cl,Boissons,Vins et alcools,13.50,1.3
+P0092,Champagne brut 75 cl,Boissons,Vins et alcools,29.90,1.6
+P0093,Bière blonde 6x25 cl,Boissons,Vins et alcools,5.20,2.1
+P0094,Rosé de Provence 75 cl,Boissons,Vins et alcools,8.90,1.3
+P0095,Whisky 70 cl,Boissons,Vins et alcools,24.90,1.4
+P0096,Café en grains 6x1 kg,Boissons,Café professionnel,69.00,6.0
+P0097,Dosettes café x150,Boissons,Café professionnel,42.00,1.2
+P0098,Gobelets carton x1000,Boissons,Café professionnel,34.00,4.0
+P0099,Gel douche 250 ml,Hygiène et beauté,Soins du corps,2.40,0.27
+P0100,Shampoing 300 ml,Hygiène et beauté,Soins du corps,3.10,0.32
+P0101,Après-shampoing 200 ml,Hygiène et beauté,Soins du corps,3.30,0.22
+P0102,Déodorant 150 ml,Hygiène et beauté,Soins du corps,2.90,0.15
+P0103,Crème hydratante 400 ml,Hygiène et beauté,Soins du corps,5.90,0.43
+P0104,Savon de Marseille x2,Hygiène et beauté,Soins du corps,3.20,0.2
+P0105,Dentifrice 75 ml,Hygiène et beauté,Hygiène dentaire,2.20,0.1
+P0106,Brosses à dents x2,Hygiène et beauté,Hygiène dentaire,3.50,0.05
+P0107,Bain de bouche 500 ml,Hygiène et beauté,Hygiène dentaire,3.90,0.55
+P0108,Eau de toilette homme 100 ml,Hygiène et beauté,Parfums,59.00,0.35
+P0109,Eau de parfum femme 50 ml,Hygiène et beauté,Parfums,79.00,0.3
+P0110,Eau de parfum femme 100 ml,Hygiène et beauté,Parfums,115.00,0.45
+P0111,Eau de cologne 200 ml,Hygiène et beauté,Parfums,24.90,0.4
+P0112,Coffret parfum et lotion,Hygiène et beauté,Parfums,89.00,0.6
+P0113,Mascara noir,Hygiène et beauté,Maquillage,12.90,0.03
+P0114,Rouge à lèvres,Hygiène et beauté,Maquillage,14.50,0.02
+P0115,Fond de teint 30 ml,Hygiène et beauté,Maquillage,19.90,0.06
+P0116,Palette ombres à paupières,Hygiène et beauté,Maquillage,24.90,0.1
+P0117,Couches taille 4 x52,Hygiène et beauté,Bébé,16.90,1.7
+P0118,Lingettes bébé x72,Hygiène et beauté,Bébé,2.90,0.45
+P0119,Lait infantile 800 g,Hygiène et beauté,Bébé,18.50,0.9
+P0120,Lessive liquide 2 L,Maison,Entretien,9.90,2.1
+P0121,"Adoucissant 1,5 L",Maison,Entretien,3.40,1.6
+P0122,Liquide vaisselle 750 ml,Maison,Entretien,1.90,0.8
+P0123,Tablettes lave-vaisselle x40,Maison,Entretien,8.90,0.8
+P0124,Nettoyant multi-usage 750 ml,Maison,Entretien,2.60,0.8
+P0125,Javel 2 L,Maison,Entretien,1.80,2.1
+P0126,Éponges x6,Maison,Entretien,2.10,0.1
+P0127,Papier toilette x12,Maison,Papier et sacs,5.90,1.3
+P0128,Essuie-tout x4,Maison,Papier et sacs,3.90,0.7
+P0129,Sacs poubelle 50 L x20,Maison,Papier et sacs,2.90,0.4
+P0130,Mouchoirs x10 paquets,Maison,Papier et sacs,2.50,0.3
+P0131,Papier aluminium 20 m,Maison,Papier et sacs,2.40,0.3
+P0132,Poêle 28 cm,Maison,Cuisine,29.90,1.1
+P0133,Casserole 20 cm,Maison,Cuisine,24.90,1.0
+P0134,Set couteaux x3,Maison,Cuisine,34.90,0.6
+P0135,Bouilloire électrique,Maison,Cuisine,29.90,1.2
+P0136,Grille-pain,Maison,Cuisine,34.90,1.6
+P0137,Cafetière à filtre,Maison,Cuisine,39.90,1.9
+P0138,Machine à café expresso,Maison,Cuisine,249.00,7.5
+P0139,Mixeur plongeant,Maison,Cuisine,39.90,1.1
+P0140,Robot pâtissier,Maison,Cuisine,329.00,8.0
+P0141,Parure de lit 240x260,Maison,Linge et décoration,49.90,1.8
+P0142,Serviettes de bain x2,Maison,Linge et décoration,24.90,1.0
+P0143,Plaid polaire,Maison,Linge et décoration,19.90,0.8
+P0144,Coussin déco,Maison,Linge et décoration,14.90,0.5
+P0145,Lampe de chevet,Maison,Linge et décoration,29.90,1.4
+P0146,Cadre photo 30x40,Maison,Linge et décoration,12.90,0.9
+P0147,Ramette papier A4 x500,Maison,Fournitures de bureau,5.90,2.5
+P0148,Stylos bille x10,Maison,Fournitures de bureau,3.90,0.1
+P0149,Classeurs x5,Maison,Fournitures de bureau,9.90,1.5
+P0150,Cartouche d'encre noire,Maison,Fournitures de bureau,24.90,0.1
+P0151,Post-it x12 blocs,Maison,Fournitures de bureau,8.90,0.3
+P0152,Câble USB-C 1 m,Électronique,Accessoires,9.90,0.05
+P0153,Chargeur USB-C 30 W,Électronique,Accessoires,24.90,0.12
+P0154,Batterie externe 10000 mAh,Électronique,Accessoires,29.90,0.25
+P0155,Souris sans fil,Électronique,Accessoires,19.90,0.1
+P0156,Clavier sans fil,Électronique,Accessoires,39.90,0.6
+P0157,Coque smartphone,Électronique,Accessoires,14.90,0.05
+P0158,Clé USB 64 Go,Électronique,Accessoires,9.90,0.02
+P0159,Piles AA x8,Électronique,Accessoires,6.90,0.2
+P0160,Écouteurs filaires,Électronique,Audio,14.90,0.05
+P0161,Écouteurs sans fil,Électronique,Audio,79.00,0.1
+P0162,Casque Bluetooth,Électronique,Audio,129.00,0.3
+P0163,Casque à réduction de bruit,Électronique,Audio,299.00,0.35
+P0164,Enceinte Bluetooth,Électronique,Audio,59.00,0.6
+P0165,Barre de son,Électronique,Audio,249.00,3.5
+P0166,Smartphone entrée de gamme,Électronique,Téléphonie,199.00,0.4
+P0167,Smartphone milieu de gamme,Électronique,Téléphonie,449.00,0.4
+P0168,Smartphone haut de gamme,Électronique,Téléphonie,1099.00,0.45
+P0169,Montre connectée,Électronique,Téléphonie,249.00,0.15
+P0170,"Ordinateur portable 14""",Électronique,Informatique,699.00,2.2
+P0171,"Ordinateur portable 16"" performance",Électronique,Informatique,1499.00,3.0
+P0172,"Écran 24""",Électronique,Informatique,149.00,4.5
+P0173,"Écran 27"" 4K",Électronique,Informatique,349.00,6.5
+P0174,"Tablette 11""",Électronique,Informatique,449.00,0.8
+P0175,Imprimante jet d'encre,Électronique,Informatique,89.00,5.5
+P0176,Disque SSD 1 To,Électronique,Informatique,79.00,0.1
+P0177,Routeur Wi-Fi 6,Électronique,Informatique,99.00,0.8
+P0178,Carte graphique milieu de gamme,Électronique,Composants PC,399.00,1.2
+P0179,Carte graphique haut de gamme,Électronique,Composants PC,999.00,1.8
+P0180,Mémoire RAM 16 Go DDR5,Électronique,Composants PC,59.00,0.08
+P0181,Mémoire RAM 32 Go DDR5,Électronique,Composants PC,109.00,0.1
+P0182,Processeur 8 cœurs,Électronique,Composants PC,329.00,0.3
+P0183,Alimentation 750 W,Électronique,Composants PC,109.00,2.1
+P0184,"Téléviseur 43""",Électronique,TV et vidéo,349.00,9.0
+P0185,"Téléviseur 55"" 4K",Électronique,TV et vidéo,599.00,15.0
+P0186,"Téléviseur 65"" OLED",Électronique,TV et vidéo,1799.00,23.0
+P0187,Console de jeux,Électronique,TV et vidéo,549.00,4.5
+P0188,Manette de jeu,Électronique,TV et vidéo,69.00,0.3
+P0189,Jeu vidéo,Électronique,TV et vidéo,59.00,0.1
+P0190,Roman poche,Livres,Romans,8.90,0.2
+P0191,Roman grand format,Livres,Romans,22.00,0.5
+P0192,Polar poche,Livres,Romans,9.20,0.25
+P0193,Roman de science-fiction,Livres,Romans,11.90,0.3
+P0194,Roman historique,Livres,Romans,23.50,0.55
+P0195,Manga volume,Livres,BD et mangas,7.20,0.2
+P0196,Bande dessinée cartonnée,Livres,BD et mangas,15.95,0.5
+P0197,Comics volume,Livres,BD et mangas,19.90,0.6
+P0198,Coffret manga x5,Livres,BD et mangas,36.00,1.0
+P0199,Livre de cuisine,Livres,Pratique,24.90,1.1
+P0200,Guide de voyage,Livres,Pratique,19.90,0.5
+P0201,Livre de bricolage,Livres,Pratique,21.90,0.8
+P0202,Dictionnaire,Livres,Pratique,32.00,1.6
+P0203,Album jeunesse,Livres,Jeunesse et scolaire,12.90,0.4
+P0204,Cahier de vacances,Livres,Jeunesse et scolaire,8.90,0.3
+P0205,Manuel scolaire,Livres,Jeunesse et scolaire,26.00,0.8
+P0206,Livre de coloriage,Livres,Jeunesse et scolaire,5.90,0.2
+P0207,Perceuse-visseuse sans fil,Bricolage,Outillage,89.00,1.8
+P0208,Coffret tournevis x10,Bricolage,Outillage,19.90,0.7
+P0209,Marteau,Bricolage,Outillage,14.90,0.6
+P0210,Niveau à bulle 60 cm,Bricolage,Outillage,12.90,0.4
+P0211,Scie sauteuse,Bricolage,Outillage,79.00,2.4
+P0212,Mètre ruban 5 m,Bricolage,Outillage,7.90,0.2
+P0213,Vis assorties x500,Bricolage,Quincaillerie,9.90,1.0
+P0214,Chevilles x100,Bricolage,Quincaillerie,5.90,0.3
+P0215,Ruban adhésif x3,Bricolage,Quincaillerie,4.90,0.2
+P0216,Ampoule LED x4,Bricolage,Quincaillerie,9.90,0.2
+P0217,Rallonge 5 m,Bricolage,Quincaillerie,12.90,0.7
+P0218,Piles bouton x4,Bricolage,Quincaillerie,5.90,0.02
+P0219,"Peinture blanche 2,5 L",Bricolage,Peinture,29.90,3.4
+P0220,Rouleau et bac,Bricolage,Peinture,12.90,0.6
+P0221,Pinceaux x3,Bricolage,Peinture,8.90,0.2
+P0222,Enduit de rebouchage 1 kg,Bricolage,Peinture,7.90,1.0
+P0223,Boîte de rangement 30 L,Bricolage,Rangement,9.90,1.2
+P0224,Étagère métal 5 niveaux,Bricolage,Rangement,49.90,14.0
+P0225,Caisse à outils,Bricolage,Rangement,24.90,1.8
+P0226,Booster cartes à collectionner,Collection,Cartes à collectionner,5.90,0.03
+P0227,Display 36 boosters,Collection,Cartes à collectionner,189.00,1.2
+P0228,Coffret dresseur d'élite,Collection,Cartes à collectionner,59.90,0.9
+P0229,Classeur pour cartes,Collection,Cartes à collectionner,24.90,0.6
+P0230,Protège-cartes x100,Collection,Cartes à collectionner,6.90,0.1
+P0231,Figurine vinyle,Collection,Figurines,14.90,0.25
+P0232,Figurine articulée,Collection,Figurines,49.90,0.6
+P0233,Statue édition limitée,Collection,Figurines,249.00,3.5
